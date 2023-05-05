@@ -5,6 +5,7 @@ Recognize The faces And Take Automatic Attandance. ✨
 
 ![Alt text](https://media.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif)
 
+
 This project is a  demonstrating the use of facial recognition for marking attendance. It  can be used by the teachers to manage attendance of its students.
 
 ## Functionality Supported
@@ -23,25 +24,30 @@ This project is a  demonstrating the use of facial recognition for marking atten
  - [face_recognition]() - by Adam Geitgey
  
 
+## Input Images
+<table>
+  <tr>
+    <td>Steve Jobs</td>
+     <td>Nicola Tesla</td>
+     <td>Ratan Tata</td>
+     <td>Sad Mona Lisa</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/23f88669dfc79a03453e4b7c4ba27d595fe57daa/photos/jobs.jpg" width=270 height=270></td>
+    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/d3afa836b7271ba354b9166116f2fb2e94f9951d/photos/tesla.jpg" width=270 height=270></td>
+    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/d3afa836b7271ba354b9166116f2fb2e94f9951d/photos/tata.jpg" width=270 height=270></td>
+     <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/d3afa836b7271ba354b9166116f2fb2e94f9951d/photos/sadmona.jpg" width=270 height=270></td>
+  </tr>
+ </table>
 
 
-## Screenshots
+## Attandence in tabular format 
 
-### Simple App UI
+![Alt text](https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/cdec8fce80e1a18329325b8161e3985c33a5483d/Screenshots/05-05-2023_Attandence.jpg)
 
-![Alt text](https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/23f88669dfc79a03453e4b7c4ba27d595fe57daa/photos/jobs.png?raw=true "App UI")
 
-### Image Recognition of my Self
 
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera1.png?raw=true "App UI")
 
-### Image Recognition of XI-jinping
-
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera2.png?raw=true "App UI")
-
-### Attendance in tabular format 
-
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/2021-11-15%20(5).png?raw=true "App UI")
 
 
 ## Scope of the project 🚀
