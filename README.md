@@ -30,7 +30,7 @@ This project is a  demonstrating the use of facial recognition for marking atten
     <td>Steve Jobs</td>
      <td>Nicola Tesla</td>
      <td>Ratan Tata</td>
-     <td>Sad Mona Lisa</td>
+     <td>Mona Lisa</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/23f88669dfc79a03453e4b7c4ba27d595fe57daa/photos/jobs.jpg" width=270 height=270></td>
