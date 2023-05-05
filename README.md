@@ -51,6 +51,11 @@ This project is a  demonstrating the use of facial recognition for marking atten
 
 
 ## Scope of the project 🚀
+The scope of a face recognition attendance system includes the following:
 
-Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. It is a very effective tool that can help low enforcers to recognize criminals and software companies are leveraging the technology to help users access the technology. This technology can be further developed to be used in other avenues such as ATMs, accessing confidential files, or other sensitive materials. This project servers as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their availability(presence) report throughout the month.
+- <b>Identification:</b> The system can identify individuals based on their facial features and compare them with a database of known individuals.
+
+- <b>Attendance Tracking:</b> The system can track attendance by identifying individuals and recording their entry and exit times.
+
+- <b>Accuracy:</b> The system must be accurate and reliable in recognizing individuals in various lighting conditions, angles, and poses.
 
