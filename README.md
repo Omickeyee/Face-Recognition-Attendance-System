@@ -33,10 +33,10 @@ This project is a  demonstrating the use of facial recognition for marking atten
      <td>Mona Lisa</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/23f88669dfc79a03453e4b7c4ba27d595fe57daa/photos/jobs.jpg" width=270 height=270></td>
-    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/d3afa836b7271ba354b9166116f2fb2e94f9951d/photos/tesla.jpg" width=270 height=270></td>
-    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/d3afa836b7271ba354b9166116f2fb2e94f9951d/photos/tata.jpg" width=270 height=270></td>
-     <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/d3afa836b7271ba354b9166116f2fb2e94f9951d/photos/sadmona.jpg" width=270 height=270></td>
+    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/assets/92362596/ba3c2ae4-e87a-4ad1-abe7-81109a198ab7" width=270 height=270></td>
+    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/assets/92362596/563c22fb-e7a9-4740-80d9-cdbd785c0ccc" width=270 height=270></td>
+    <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/assets/92362596/b7521416-3ebc-4a08-b1d1-95ce06d671e9" width=270 height=270></td>
+     <td><img src="https://github.com/Omickeyee/Face-Recognition-Attendance-System/assets/92362596/ea4a2281-3e3f-45cd-84a7-cb2fc81fe1d7" width=270 height=270></td>
   </tr>
  </table>
 
@@ -44,9 +44,6 @@ This project is a  demonstrating the use of facial recognition for marking atten
 ## Attandence in tabular format 
 
 ![Alt text](https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/cdec8fce80e1a18329325b8161e3985c33a5483d/Screenshots/05-05-2023_Attandence.jpg)
-
-
-
 
 
 
