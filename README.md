@@ -43,7 +43,7 @@ This project is a  demonstrating the use of facial recognition for marking atten
 
 ## Attandence in tabular format 
 
-![Alt text](https://github.com/Omickeyee/Face-Recognition-Attendance-System/blob/cdec8fce80e1a18329325b8161e3985c33a5483d/Screenshots/05-05-2023_Attandence.jpg)
+![Alt text](https://github.com/Omickeyee/Face-Recognition-Attendance-System/assets/92362596/79b50b7d-fc9c-4404-8fe5-fd819fe1ca59)
 
 
 
